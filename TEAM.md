@@ -1,14 +1,14 @@
-## Founder
+Founder
 
-Name: [name]
-Role: [role]
+El Presidente Global Operations
 
-## Team Member 1
+Role: Global Donations
 
-Name: [name]
-Role: [role]
+El Vice Presidente Asia Operations
 
-## Team Member 2
+Role: Asia Donations
 
-Name: [name]
-Role: [role]
+
+El Vice Presidente Africa Operations
+
+Role: Africa Donations
