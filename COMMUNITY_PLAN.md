@@ -1,6 +1,7 @@
 January  2019
 
 e-mail  GlobalRiceToken@protonmail.com
+
 Website https://globalricetoken.wixsite.com/grttoken
 
 Using the Global Rice Token:
