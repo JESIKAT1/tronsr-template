@@ -5,8 +5,11 @@ e-mail  GlobalRiceToken@protonmail.com
 Website https://globalricetoken.wixsite.com/grttoken
 
 Using the Global Rice Token:
+
 20% will go directly to the below 10 Non-Profits
+
 30% will be distributed to SR Trons and Repreesentatives
+
 50% will grow GRT infrastructure and cloud servers to provide rigourous support to our Tron community.
 
 GlobalRiceToken (GRT) is a blockchain token on the Tron Decentrailzed Web which funds the 10  Top Global Poverty Nonprofits
